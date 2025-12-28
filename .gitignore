@@ -1,0 +1,10 @@
+node_modules/
+client/node_modules/
+uploads/
+*.log
+.env
+file-metadata.json
+.DS_Store
+dist/
+build/
+
